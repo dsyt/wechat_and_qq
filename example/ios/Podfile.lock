@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wechat_and_qq (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - wechat_and_qq (from `.symlinks/plugins/wechat_and_qq/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  wechat_and_qq:
+    :path: ".symlinks/plugins/wechat_and_qq/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  wechat_and_qq: 6c441f4d2c954411fd66d5a0bdc73bd64e528c37
+
+PODFILE CHECKSUM: 7765ea4305eaab0b3dfd384c7de11902aa3195fd
+
+COCOAPODS: 1.5.0
